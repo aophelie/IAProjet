@@ -4,9 +4,6 @@
     <option name="customVMPath" />
     <option name="linkedExternalProjectsSettings">
       <SbtProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/../SPARQL2DF" />
-      </SbtProjectSettings>
-      <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
@@ -14,12 +11,8 @@
             <option value="$PROJECT_DIR$/project" />
           </set>
         </option>
-        <option name="sbtVersion" value="1.0.3" />
+        <option name="sbtVersion" value="1.2.8" />
         <option name="useAutoImport" value="true" />
-      </SbtProjectSettings>
-      <SbtProjectSettings>
-        <option name="externalProjectPath" value="D:/M2-logiciels/Inteligence Artificiel/td2/SPARQLTODF" />
-        <option name="resolveSbtClassifiers" value="true" />
       </SbtProjectSettings>
     </option>
   </component>
